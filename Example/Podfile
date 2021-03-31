@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'ListViewAutoHeightExtention_Example' do
+  pod 'ListViewAutoHeightExtention', :path => '../'
+
+  target 'ListViewAutoHeightExtention_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
