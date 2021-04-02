@@ -22,7 +22,7 @@ pod 'ListViewAutoHeightExtention'
 
 ## Author
 
-nothot, nothot.duan@ximalaya.com
+nothot, duanmein@126.com
 
 ## License
 
